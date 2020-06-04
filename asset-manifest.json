@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/appelmedia/static/css/main.5f361e03.chunk.css",
+    "main.js": "/appelmedia/static/js/main.09db6d80.chunk.js",
+    "main.js.map": "/appelmedia/static/js/main.09db6d80.chunk.js.map",
+    "runtime-main.js": "/appelmedia/static/js/runtime-main.dd74c233.js",
+    "runtime-main.js.map": "/appelmedia/static/js/runtime-main.dd74c233.js.map",
+    "static/js/2.c150aea7.chunk.js": "/appelmedia/static/js/2.c150aea7.chunk.js",
+    "static/js/2.c150aea7.chunk.js.map": "/appelmedia/static/js/2.c150aea7.chunk.js.map",
+    "index.html": "/appelmedia/index.html",
+    "precache-manifest.2de4f1b7bb27cfaf52633e12014f4c35.js": "/appelmedia/precache-manifest.2de4f1b7bb27cfaf52633e12014f4c35.js",
+    "service-worker.js": "/appelmedia/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/appelmedia/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c150aea7.chunk.js.LICENSE.txt": "/appelmedia/static/js/2.c150aea7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd74c233.js",
+    "static/js/2.c150aea7.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.09db6d80.chunk.js"
+  ]
+}
