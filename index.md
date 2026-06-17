@@ -8,3 +8,4 @@
 <br>
 ### published stuff  
 [float-sweep-generator](https://etiennedemoulin.github.io/float-sweep-generator/)
+[enveloppe-generator](https://etiennedemoulin.github.io/enveloppe-generator/)
