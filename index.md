@@ -10,3 +10,4 @@
 [float-sweep-generator](https://etiennedemoulin.github.io/float-sweep-generator/)
 [enveloppe-generator](https://etiennedemoulin.github.io/enveloppe-generator/)
 [random-scheduler](https://etiennedemoulin.github.io/random-scheduler/)
+[flux-release](https://etiennedemoulin.github.io/flux-release/)
